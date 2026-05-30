@@ -8,236 +8,245 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-14 22:21-0400\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-05-30 18:01+0000\n"
+"Last-Translator: Michał Dominik <fancy0duck@duck.com>\n"
+"Language-Team: Polish <https://hosted.weblate.org/projects/nickvision-"
+"spotlight/app/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 2026.6.dev0\n"
 
 #: libspotlight/src/controllers/mainwindowcontroller.cpp:36
 msgid "Spotlight"
-msgstr ""
+msgstr "Spotlight"
 
 #: libspotlight/src/controllers/mainwindowcontroller.cpp:37
 msgid "Find your favorite Windows spotlight images"
-msgstr ""
+msgstr "Znajdź swoje ulubione obrazy z Windows Spotlight"
 
 #: libspotlight/src/controllers/mainwindowcontroller.cpp:42
 msgid "Matrix Chat"
-msgstr ""
+msgstr "Czat Matrix"
 
 #: libspotlight/src/controllers/mainwindowcontroller.cpp:44
 msgid "Contributors on GitHub"
-msgstr ""
+msgstr "Współautorzy na GitHub"
 
 #: libspotlight/src/controllers/mainwindowcontroller.cpp:46
 msgid "Fyodor Sobolev"
-msgstr ""
+msgstr "Fyodor Sobolev"
 
 #: libspotlight/src/controllers/mainwindowcontroller.cpp:48
 msgid "David Lapshin"
-msgstr ""
+msgstr "David Lapshin"
 
 #: libspotlight/src/controllers/mainwindowcontroller.cpp:49
 msgid "translator-credits"
-msgstr ""
+msgstr "Michał Dominik, 2025"
 
 #: libspotlight/src/controllers/mainwindowcontroller.cpp:173
 msgid "New update available"
-msgstr ""
+msgstr "Dostępna nowa aktualizacja"
 
 #: libspotlight/src/controllers/mainwindowcontroller.cpp:186
 msgid ""
 "The update is downloading in the background and will start once it finishes"
 msgstr ""
+"Aktualizacja jest pobierana w tle i rozpocznie się po zakończeniu pobierania"
 
 #: libspotlight/src/controllers/mainwindowcontroller.cpp:191
 msgid "Unable to download and install update"
-msgstr ""
+msgstr "Nie można pobrać i zainstalować aktualizacji"
 
 #: libspotlight/src/controllers/mainwindowcontroller.cpp:211
 msgid "Image set as desktop background"
-msgstr ""
+msgstr "Obraz ustawiony jako tło pulpitu"
 
 #: libspotlight/src/controllers/mainwindowcontroller.cpp:215
 msgid "Unable to set image as desktop background"
-msgstr ""
+msgstr "Nie udało się ustawić obrazu jako tła pulpitu"
 
 #: libspotlight/src/controllers/mainwindowcontroller.cpp:223
 msgid "Image exported to {}"
-msgstr ""
+msgstr "Obraz wyeksportowany jako {}"
 
 #: libspotlight/src/controllers/mainwindowcontroller.cpp:227
 msgid "Unable to export image"
-msgstr ""
+msgstr "Nie udało się wyeksportować obrazu"
 
 #: libspotlight/src/controllers/mainwindowcontroller.cpp:235
 msgid "Images exported to {}"
-msgstr ""
+msgstr "Obrazy wyeksportowane do {}"
 
 #: libspotlight/src/controllers/mainwindowcontroller.cpp:239
 msgid "Unable to export images"
-msgstr ""
+msgstr "Nie udało się wyeksportować obrazów"
 
 #: org.nickvision.spotlight.winui/Controls/AboutDialog.xaml.cpp:34
 msgid "OK"
-msgstr ""
+msgstr "Ok"
 
 #: org.nickvision.spotlight.winui/Controls/AboutDialog.xaml.cpp:35
 #: org.nickvision.spotlight.winui/Views/MainWindow.xaml.cpp:70
 msgid "About"
-msgstr ""
+msgstr "O"
 
 #: org.nickvision.spotlight.winui/Controls/AboutDialog.xaml.cpp:36
 msgid "Changelog"
-msgstr ""
+msgstr "Dziennik zmian"
 
 #: org.nickvision.spotlight.winui/Controls/AboutDialog.xaml.cpp:37
 msgid "Credits"
-msgstr ""
+msgstr "Twórcy"
 
 #: org.nickvision.spotlight.winui/Controls/AboutDialog.xaml.cpp:38
 msgid "Debugging"
-msgstr ""
+msgstr "Debugowanie"
 
 #: org.nickvision.spotlight.winui/Controls/AboutDialog.xaml.cpp:39
 msgid "Developers"
-msgstr ""
+msgstr "Deweloperzy"
 
 #: org.nickvision.spotlight.winui/Controls/AboutDialog.xaml.cpp:40
 msgid "Designers"
-msgstr ""
+msgstr "Projektanci"
 
 #: org.nickvision.spotlight.winui/Controls/AboutDialog.xaml.cpp:41
 msgid "Artists"
-msgstr ""
+msgstr "Artyści"
 
 #: org.nickvision.spotlight.winui/Controls/AboutDialog.xaml.cpp:42
 msgid "Copy Debug Information"
-msgstr ""
+msgstr "Skopiuj informacje debugowania"
 
 #: org.nickvision.spotlight.winui/Controls/TitleBar.xaml.cpp:192
 msgid "Search"
-msgstr ""
+msgstr "Szukaj"
 
 #: org.nickvision.spotlight.winui/Views/MainWindow.xaml.cpp:62
 msgid "Preview"
-msgstr ""
+msgstr "Podgląd"
 
 #: org.nickvision.spotlight.winui/Views/MainWindow.xaml.cpp:63
 #: org.nickvision.spotlight.winui/Views/MainWindow.xaml.cpp:74
 msgid "Images"
-msgstr ""
+msgstr "Obrazy"
 
 #: org.nickvision.spotlight.winui/Views/MainWindow.xaml.cpp:64
 msgid "Help"
-msgstr ""
+msgstr "Pomoc"
 
 #: org.nickvision.spotlight.winui/Views/MainWindow.xaml.cpp:65
 #: org.nickvision.spotlight.winui/Views/SettingsPage.xaml.cpp:19
 msgid "Settings"
-msgstr ""
+msgstr "Ustawienia"
 
 #: org.nickvision.spotlight.winui/Views/MainWindow.xaml.cpp:66
 msgid "Check for Updates"
-msgstr ""
+msgstr "Sprawdź aktualizacje"
 
 #: org.nickvision.spotlight.winui/Views/MainWindow.xaml.cpp:67
 msgid "GitHub Repo"
-msgstr ""
+msgstr "Repozytorium na GitHub"
 
 #: org.nickvision.spotlight.winui/Views/MainWindow.xaml.cpp:68
 msgid "Report a Bug"
-msgstr ""
+msgstr "Zgłoś błąd"
 
 #: org.nickvision.spotlight.winui/Views/MainWindow.xaml.cpp:69
 msgid "Discussions"
-msgstr ""
+msgstr "Dyskusje"
 
 #: org.nickvision.spotlight.winui/Views/MainWindow.xaml.cpp:71
 msgid "This may take some time..."
-msgstr ""
+msgstr "To może zająć trochę czasu..."
 
 #: org.nickvision.spotlight.winui/Views/MainWindow.xaml.cpp:72
 msgid "No Images Found"
-msgstr ""
+msgstr "Nie znaleziono obrazów"
 
 #: org.nickvision.spotlight.winui/Views/MainWindow.xaml.cpp:73
 msgid "Ensure Windows Spotlight is enabled and restart the app"
 msgstr ""
+"Upewnij się, że Windows Spotlight jest włączony, a następnie uruchom "
+"ponownie aplikację"
 
 #: org.nickvision.spotlight.winui/Views/MainWindow.xaml.cpp:75
 msgid "Export"
-msgstr ""
+msgstr "Eksportuj"
 
 #: org.nickvision.spotlight.winui/Views/MainWindow.xaml.cpp:76
 msgid "Export All"
-msgstr ""
+msgstr "Eksportuj wszystkie"
 
 #: org.nickvision.spotlight.winui/Views/MainWindow.xaml.cpp:77
 msgid "Set as Background"
-msgstr ""
+msgstr "Ustaw jako tło pulpitu"
 
 #: org.nickvision.spotlight.winui/Views/MainWindow.xaml.cpp:78
 msgid "Clear and Sync"
-msgstr ""
+msgstr "Wyczyść i zsynchronizuj"
 
 #: org.nickvision.spotlight.winui/Views/MainWindow.xaml.cpp:171
 msgid "Update"
-msgstr ""
+msgstr "Aktualizuj"
 
 #: org.nickvision.spotlight.winui/Views/MainWindow.xaml.cpp:271
 msgid "Clear and Sync?"
-msgstr ""
+msgstr "Wyczyścić i zsynchronizować?"
 
 #: org.nickvision.spotlight.winui/Views/MainWindow.xaml.cpp:272
 msgid ""
 "Are you sure you want to clear the image cache and re-sync the spotlight "
 "images?"
 msgstr ""
+"Czy na pewno chcesz wyczyścić pamięć podręczną obrazów i zsynchronizować "
+"ponownie obrazy spotlight?"
 
 #: org.nickvision.spotlight.winui/Views/MainWindow.xaml.cpp:273
 msgid "No"
-msgstr ""
+msgstr "Nie"
 
 #: org.nickvision.spotlight.winui/Views/MainWindow.xaml.cpp:274
 msgid "Yes"
-msgstr ""
+msgstr "Tak"
 
 #: org.nickvision.spotlight.winui/Views/MainWindow.xaml.cpp:289
 msgid "Total Number of Images: {}"
-msgstr ""
+msgstr "Łączna liczba obrazów: {}"
 
 #: org.nickvision.spotlight.winui/Views/SettingsPage.xaml.cpp:20
 msgid "User Interface"
-msgstr ""
+msgstr "Interfejs użytkownika"
 
 #: org.nickvision.spotlight.winui/Views/SettingsPage.xaml.cpp:21
 msgid "Theme"
-msgstr ""
+msgstr "Motyw"
 
 #: org.nickvision.spotlight.winui/Views/SettingsPage.xaml.cpp:22
 msgid "Light"
-msgstr ""
+msgstr "Jasny"
 
 #: org.nickvision.spotlight.winui/Views/SettingsPage.xaml.cpp:23
 msgid "Dark"
-msgstr ""
+msgstr "Ciemny"
 
 #: org.nickvision.spotlight.winui/Views/SettingsPage.xaml.cpp:24
 msgid "System"
-msgstr ""
+msgstr "Systemowy"
 
 #: org.nickvision.spotlight.winui/Views/SettingsPage.xaml.cpp:25
 msgid "Automatically Check for Updates"
-msgstr ""
+msgstr "Samoczynnie sprawdzaj aktualizacje"
 
 #: org.nickvision.spotlight.winui/Views/SettingsPage.xaml.cpp:26
 msgid "On"
-msgstr ""
+msgstr "Włączone"
 
 #: org.nickvision.spotlight.winui/Views/SettingsPage.xaml.cpp:27
 msgid "Off"
-msgstr ""
+msgstr "Wyłączone"
