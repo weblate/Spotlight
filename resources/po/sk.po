@@ -1,0 +1,252 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-14 22:21-0400\n"
+"PO-Revision-Date: 2026-05-17 09:11+0000\n"
+"Last-Translator: Peter Vančo <petervanco347@gmail.com>\n"
+"Language-Team: Slovak <https://hosted.weblate.org/projects/nickvision-"
+"spotlight/app/sk/>\n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
+"X-Generator: Weblate 2026.6.dev0\n"
+
+#: libspotlight/src/controllers/mainwindowcontroller.cpp:36
+msgid "Spotlight"
+msgstr "Spotlight"
+
+#: libspotlight/src/controllers/mainwindowcontroller.cpp:37
+msgid "Find your favorite Windows spotlight images"
+msgstr "Nájdite svoje obľúbené obrázky z funkcie Windows Spotlight"
+
+#: libspotlight/src/controllers/mainwindowcontroller.cpp:42
+msgid "Matrix Chat"
+msgstr "Chat Matrix"
+
+#: libspotlight/src/controllers/mainwindowcontroller.cpp:44
+msgid "Contributors on GitHub"
+msgstr "Prispievatelia na GitHub"
+
+#: libspotlight/src/controllers/mainwindowcontroller.cpp:46
+msgid "Fyodor Sobolev"
+msgstr "Fyodor Sobolev"
+
+#: libspotlight/src/controllers/mainwindowcontroller.cpp:48
+msgid "David Lapshin"
+msgstr "David Lapshin"
+
+#: libspotlight/src/controllers/mainwindowcontroller.cpp:49
+msgid "translator-credits"
+msgstr "Peter Vančo"
+
+#: libspotlight/src/controllers/mainwindowcontroller.cpp:173
+msgid "New update available"
+msgstr "K dispozícii je nová aktualizácia"
+
+#: libspotlight/src/controllers/mainwindowcontroller.cpp:186
+msgid ""
+"The update is downloading in the background and will start once it finishes"
+msgstr "Aktualizácia sa sťahuje na pozadí a spustí sa po dokončení sťahovania"
+
+#: libspotlight/src/controllers/mainwindowcontroller.cpp:191
+msgid "Unable to download and install update"
+msgstr "Nepodarilo sa stiahnuť a nainštalovať aktualizáciu"
+
+#: libspotlight/src/controllers/mainwindowcontroller.cpp:211
+msgid "Image set as desktop background"
+msgstr "Obrázok nastavený ako pozadie pracovnej plochy"
+
+#: libspotlight/src/controllers/mainwindowcontroller.cpp:215
+msgid "Unable to set image as desktop background"
+msgstr "Nepodarilo sa nastaviť obrázok ako pozadie pracovnej plochy"
+
+#: libspotlight/src/controllers/mainwindowcontroller.cpp:223
+#, c++-format
+msgid "Image exported to {}"
+msgstr "Obrázok exportovaný do {}"
+
+#: libspotlight/src/controllers/mainwindowcontroller.cpp:227
+msgid "Unable to export image"
+msgstr "Nepodarilo sa exportovať obrázok"
+
+#: libspotlight/src/controllers/mainwindowcontroller.cpp:235
+#, c++-format
+msgid "Images exported to {}"
+msgstr "Obrázky exportované do {}"
+
+#: libspotlight/src/controllers/mainwindowcontroller.cpp:239
+msgid "Unable to export images"
+msgstr "Nepodarilo sa exportovať obrázky"
+
+#: org.nickvision.spotlight.winui/Controls/AboutDialog.xaml.cpp:34
+msgid "OK"
+msgstr "OK"
+
+#: org.nickvision.spotlight.winui/Controls/AboutDialog.xaml.cpp:35
+#: org.nickvision.spotlight.winui/Views/MainWindow.xaml.cpp:70
+msgid "About"
+msgstr "O aplikácii"
+
+#: org.nickvision.spotlight.winui/Controls/AboutDialog.xaml.cpp:36
+msgid "Changelog"
+msgstr "Zoznam zmien"
+
+#: org.nickvision.spotlight.winui/Controls/AboutDialog.xaml.cpp:37
+msgid "Credits"
+msgstr "Poďakovanie"
+
+#: org.nickvision.spotlight.winui/Controls/AboutDialog.xaml.cpp:38
+msgid "Debugging"
+msgstr "Ladenie"
+
+#: org.nickvision.spotlight.winui/Controls/AboutDialog.xaml.cpp:39
+msgid "Developers"
+msgstr "Vývojári"
+
+#: org.nickvision.spotlight.winui/Controls/AboutDialog.xaml.cpp:40
+msgid "Designers"
+msgstr "Dizajnéri"
+
+#: org.nickvision.spotlight.winui/Controls/AboutDialog.xaml.cpp:41
+msgid "Artists"
+msgstr "Umelci"
+
+#: org.nickvision.spotlight.winui/Controls/AboutDialog.xaml.cpp:42
+msgid "Copy Debug Information"
+msgstr "Kopírovať ladiace informácie"
+
+#: org.nickvision.spotlight.winui/Controls/TitleBar.xaml.cpp:192
+msgid "Search"
+msgstr "Hľadať"
+
+#: org.nickvision.spotlight.winui/Views/MainWindow.xaml.cpp:62
+msgid "Preview"
+msgstr "Náhľad"
+
+#: org.nickvision.spotlight.winui/Views/MainWindow.xaml.cpp:63
+#: org.nickvision.spotlight.winui/Views/MainWindow.xaml.cpp:74
+msgid "Images"
+msgstr "Obrázky"
+
+#: org.nickvision.spotlight.winui/Views/MainWindow.xaml.cpp:64
+msgid "Help"
+msgstr "Pomoc"
+
+#: org.nickvision.spotlight.winui/Views/MainWindow.xaml.cpp:65
+#: org.nickvision.spotlight.winui/Views/SettingsPage.xaml.cpp:19
+msgid "Settings"
+msgstr "Nastavenia"
+
+#: org.nickvision.spotlight.winui/Views/MainWindow.xaml.cpp:66
+msgid "Check for Updates"
+msgstr "Skontrolovať aktualizácie"
+
+#: org.nickvision.spotlight.winui/Views/MainWindow.xaml.cpp:67
+msgid "GitHub Repo"
+msgstr "Repozitár GitHub"
+
+#: org.nickvision.spotlight.winui/Views/MainWindow.xaml.cpp:68
+msgid "Report a Bug"
+msgstr "Nahlásiť chybu"
+
+#: org.nickvision.spotlight.winui/Views/MainWindow.xaml.cpp:69
+msgid "Discussions"
+msgstr "Diskusie"
+
+#: org.nickvision.spotlight.winui/Views/MainWindow.xaml.cpp:71
+msgid "This may take some time..."
+msgstr "Toto môže chvíľu trvať..."
+
+#: org.nickvision.spotlight.winui/Views/MainWindow.xaml.cpp:72
+msgid "No Images Found"
+msgstr "Nenašli sa žiadne obrázky"
+
+#: org.nickvision.spotlight.winui/Views/MainWindow.xaml.cpp:73
+msgid "Ensure Windows Spotlight is enabled and restart the app"
+msgstr ""
+"Uistite sa, že je povolená funkcia Windows Spotlight, a reštartujte aplikáciu"
+
+#: org.nickvision.spotlight.winui/Views/MainWindow.xaml.cpp:75
+msgid "Export"
+msgstr "Exportovať"
+
+#: org.nickvision.spotlight.winui/Views/MainWindow.xaml.cpp:76
+msgid "Export All"
+msgstr "Exportovať všetko"
+
+#: org.nickvision.spotlight.winui/Views/MainWindow.xaml.cpp:77
+msgid "Set as Background"
+msgstr "Nastaviť ako pozadie"
+
+#: org.nickvision.spotlight.winui/Views/MainWindow.xaml.cpp:78
+msgid "Clear and Sync"
+msgstr "Vymazať a synchronizovať"
+
+#: org.nickvision.spotlight.winui/Views/MainWindow.xaml.cpp:171
+msgid "Update"
+msgstr "Aktualizovať"
+
+#: org.nickvision.spotlight.winui/Views/MainWindow.xaml.cpp:271
+msgid "Clear and Sync?"
+msgstr "Vymazať a synchronizovať?"
+
+#: org.nickvision.spotlight.winui/Views/MainWindow.xaml.cpp:272
+msgid ""
+"Are you sure you want to clear the image cache and re-sync the spotlight "
+"images?"
+msgstr ""
+"Naozaj chcete vymazať medzipamäť obrázkov a znovu synchronizovať obrázky "
+"Spotlight?"
+
+#: org.nickvision.spotlight.winui/Views/MainWindow.xaml.cpp:273
+msgid "No"
+msgstr "Nie"
+
+#: org.nickvision.spotlight.winui/Views/MainWindow.xaml.cpp:274
+msgid "Yes"
+msgstr "Áno"
+
+#: org.nickvision.spotlight.winui/Views/MainWindow.xaml.cpp:289
+#, c++-format
+msgid "Total Number of Images: {}"
+msgstr "Celkový počet obrázkov: {}"
+
+#: org.nickvision.spotlight.winui/Views/SettingsPage.xaml.cpp:20
+msgid "User Interface"
+msgstr "Používateľské rozhranie"
+
+#: org.nickvision.spotlight.winui/Views/SettingsPage.xaml.cpp:21
+msgid "Theme"
+msgstr "Téma"
+
+#: org.nickvision.spotlight.winui/Views/SettingsPage.xaml.cpp:22
+msgid "Light"
+msgstr "Svetlá"
+
+#: org.nickvision.spotlight.winui/Views/SettingsPage.xaml.cpp:23
+msgid "Dark"
+msgstr "Tmavá"
+
+#: org.nickvision.spotlight.winui/Views/SettingsPage.xaml.cpp:24
+msgid "System"
+msgstr "Systém"
+
+#: org.nickvision.spotlight.winui/Views/SettingsPage.xaml.cpp:25
+msgid "Automatically Check for Updates"
+msgstr "Automaticky kontrolovať aktualizácie"
+
+#: org.nickvision.spotlight.winui/Views/SettingsPage.xaml.cpp:26
+msgid "On"
+msgstr "Zapnuté"
+
+#: org.nickvision.spotlight.winui/Views/SettingsPage.xaml.cpp:27
+msgid "Off"
+msgstr "Vypnuté"
